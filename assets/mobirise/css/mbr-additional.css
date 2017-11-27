@@ -1489,6 +1489,10 @@ body {
 .cid-qC4xjiqfSA .progress_value span {
   padding-left: 30px;
 }
+.cid-qC4xjiqfSA .progressbar-title p,
+.cid-qC4xjiqfSA .progress_value {
+  color: #232323;
+}
 .cid-qC5OPo51fB {
   padding-top: 60px;
   padding-bottom: 60px;
