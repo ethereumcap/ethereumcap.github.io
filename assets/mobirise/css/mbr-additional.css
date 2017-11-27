@@ -1494,6 +1494,30 @@ body {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/jumbotron.jpg");
 }
+.cid-qC9tIIPExt {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: #232323;
+}
+.cid-qC9tIIPExt .image-block {
+  margin: auto;
+}
+.cid-qC9tIIPExt .mbr-figure {
+  margin: 0 auto;
+}
+.cid-qC9tIIPExt figcaption {
+  position: relative;
+}
+.cid-qC9tIIPExt figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qC9tIIPExt .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qC5QSmPizU {
   padding-top: 30px;
   padding-bottom: 15px;
