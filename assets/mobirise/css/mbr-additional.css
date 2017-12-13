@@ -1370,7 +1370,7 @@ body {
 .cid-qDBds7PM0M {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #f9f9f9;
+  background-image: url("../../../assets/images/tenx-black-bg-1920x1080.jpg");
 }
 .cid-qDBds7PM0M h4 {
   text-align: left;
@@ -1403,6 +1403,16 @@ body {
   .cid-qDBds7PM0M .card-box {
     padding-left: 0;
   }
+}
+.cid-qDBds7PM0M .card-title,
+.cid-qDBds7PM0M .card-img {
+  color: #f5c728;
+}
+.cid-qDBds7PM0M B {
+  color: #f9f295;
+}
+.cid-qDBds7PM0M P {
+  color: #ffffff;
 }
 .cid-qC4xjiqfSA {
   padding-top: 60px;
