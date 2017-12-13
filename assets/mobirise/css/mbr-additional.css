@@ -1342,6 +1342,14 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/ethereum-price-eth-usd-analysis-3-1200x698.jpg");
 }
+.cid-qDBgciBHQD .mbr-text,
+.cid-qDBgciBHQD .mbr-section-btn B {
+  color: #ffffff;
+}
+.cid-qDBgciBHQD .mbr-text,
+.cid-qDBgciBHQD .mbr-section-btn {
+  text-align: left;
+}
 .cid-qC4vmbAS7y {
   padding-top: 90px;
   padding-bottom: 45px;
